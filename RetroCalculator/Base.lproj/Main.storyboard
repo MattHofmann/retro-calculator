@@ -5,6 +5,11 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11161"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <array key="Minecraft.ttf">
+            <string>Minecraft</string>
+        </array>
+    </customFonts>
     <scenes>
         <!--View Controller-->
         <scene sceneID="tne-QT-ifu">
@@ -180,18 +185,18 @@
                                     </stackView>
                                 </subviews>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ygh-dj-XY3">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ygh-dj-XY3">
                                 <constraints>
                                     <constraint firstAttribute="height" constant="40" id="svG-cq-Dps"/>
                                 </constraints>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="Minecraft" family="Minecraft" pointSize="30"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstItem="Ygh-dj-XY3" firstAttribute="centerY" secondItem="5PO-oh-OQy" secondAttribute="centerY" id="0N9-yE-ZPX"/>
+                            <constraint firstItem="Ygh-dj-XY3" firstAttribute="centerY" secondItem="5PO-oh-OQy" secondAttribute="centerY" constant="5" id="0N9-yE-ZPX"/>
                             <constraint firstItem="e12-PY-CiZ" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="6fg-r1-TzT"/>
                             <constraint firstItem="N1P-Qc-dza" firstAttribute="centerX" secondItem="l3l-8I-9gJ" secondAttribute="centerX" id="ARd-Mo-XIW"/>
                             <constraint firstItem="Ygh-dj-XY3" firstAttribute="leading" secondItem="5PO-oh-OQy" secondAttribute="leading" constant="15" id="Ghr-Ta-xrE"/>
