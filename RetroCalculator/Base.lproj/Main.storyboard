@@ -52,6 +52,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="7"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="hAy-vq-R9I"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qQQ-Dp-UqC">
                                                 <constraints>
@@ -60,6 +63,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="8"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="spU-7k-yUO"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="S18-wk-xx7">
                                                 <constraints>
@@ -68,6 +74,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="9"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="90U-mf-2oa"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -80,6 +89,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="4"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="HUV-Wt-feY"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tN7-bh-1ZU">
                                                 <constraints>
@@ -88,6 +100,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="5"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oWI-z1-CgE"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gYo-1j-8Us">
                                                 <constraints>
@@ -96,6 +111,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="6"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nNg-8P-cID"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -108,6 +126,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="1"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WCA-8Q-CoV"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jeU-Zv-SqD">
                                                 <constraints>
@@ -116,6 +137,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="2"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="q19-j2-Res"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OH2-KX-hl5">
                                                 <constraints>
@@ -124,6 +148,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="3"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gMm-aw-mtK"/>
+                                                </connections>
                                             </button>
                                         </subviews>
                                     </stackView>
@@ -136,6 +163,9 @@
                                                 </constraints>
                                                 <size key="titleShadowOffset" width="1" height="0.0"/>
                                                 <state key="normal" image="0"/>
+                                                <connections>
+                                                    <action selector="numberPressedWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="90b-lj-wZF"/>
+                                                </connections>
                                             </button>
                                             <button opaque="NO" contentMode="scaleAspectFit" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ckH-Pi-Jgy">
                                                 <constraints>
