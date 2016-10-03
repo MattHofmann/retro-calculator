@@ -8,3 +8,6 @@ Screenshots:
 
 
 This App is for educational purpose only.
+
+Resources:
+- Font "Minecraft" by CraftronGaming.
